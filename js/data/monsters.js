@@ -1391,14 +1391,14 @@ let monsters = [
 			"it": "Osservatore",
 			"es": "El Vigía",
 			"fr": "Le Guetteur",
-            "de": "TODO NAME"
+            "de": "Der Beobachter"
 		},
 		"type": {
 			"en": ["Unholy Presence"],
 			"it": ["Presenza Empia"],
 			"es": ["Presencia impía"],
 			"fr": ["Présence Impie"],
-            "de": ["TODO TYPE"]
+            "de": ["Präsenz", "Unheilig"]
 		},
 		"expansion": "Under Dark Waves",
 		"quantity": 1
